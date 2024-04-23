@@ -1,0 +1,32 @@
+.container {
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.content {
+    border-radius: 10px 10px;
+    height: auto;
+    width: 350px;
+    background-color: #899e9e;
+    margin: 10px;
+    padding: 10px;
+    border : black solid 2px;
+}
+
+.content img {
+    border-radius: 30px;
+    height: 100px;
+    float: left;
+    margin: 10px;
+}
+
+.content p {
+    text-align: justify;
+    font-family: "Oswald", sans-serif;
+}
+
+.content h2 {
+    font-family: "Sedan", sans-serif;
+    text-align: center;
+}

@@ -1,0 +1,43 @@
+/*Google Font Sedan Oswald*/
+@import url('https://fonts.googleapis.com/css2?family=Sedan:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Sedan:ital@0;1&display=swap');
+
+
+.navbar-1 {
+    background-color: #655f5f;
+    text-align: center;
+    position: sticky;
+    border-radius: 10px;
+    top: 10px;
+    box-shadow: 2px 2px 5px #655f5f;
+}
+
+.navbar-1 a {
+    color: white;
+    margin: 5px;
+    text-decoration: none;
+    font-size: 26px;
+    font-family: "Oswald", sans-serif;
+}
+
+
+.navbar-1 a:hover {
+    background-color: #634a4a;
+    border-radius: 5px;
+    color: white;
+}
+.Home {
+    margin-top: 30px;
+    border: grey solid 2px;
+    border-radius: 10px;
+}
+
+.Home h1 {
+    font-family: "Sedan", sans-serif;
+    text-align: center;
+    color: #635555;
+}
+.Home p {
+    margin: 15px;
+    font-family: "Oswald", sans-serif;
+}

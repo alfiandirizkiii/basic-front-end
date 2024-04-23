@@ -1,0 +1,30 @@
+.list .list-2 {
+    background-color: #6e7575;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 10px 10px;
+    box-shadow: #634a4a 10px 10px 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.list h1 {
+    text-align: center;
+    font-size: px;
+    margin-top: 25px;
+    color: #837d7d;
+}
+
+.list li {
+    font-family: "Sedan", sans-serif;
+    color: white;
+    font-size: 20px;
+}
+
+.list ul {
+
+    border-radius: 10px;
+    margin: 10px;
+}
+
