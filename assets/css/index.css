@@ -41,3 +41,12 @@
     margin: 15px;
     font-family: "Oswald", sans-serif;
 }
+
+.Home.column {
+    column-count: 3;
+}
+
+.Home img{
+    float: right;
+    margin: 10px;
+}
